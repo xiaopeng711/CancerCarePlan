@@ -36,3 +36,17 @@
 ## http/https反向代理Nginx
 
 > http://www.nginx.cn/doc/
+
+### Nginx yum源
+> http://nginx.org/en/linux_packages.html#stable
+
+### Nginx证书配置
+
+> https://yundun.console.aliyun.com/?spm=5176.2020520110.all.11.2XzOTI&p=cas#/cas/download/214180120000497
+
+### Nginx目录结构
+
+```shell
+/var/log/nginx # 日志目录
+/etc/nginx/nginx.conf # 配置文件
+```
