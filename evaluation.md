@@ -164,4 +164,40 @@
       <td>√</td>
       <td></td>
    </tr>
+   <tr>
+      <td>脉搏</td>
+      <td>60-100</td>
+      <td>√</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>心率</td>
+      <td>60-100</td>
+      <td>√</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>呼吸</td>
+      <td>16-20</td>
+      <td>√</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>舒张压</td>
+      <td>60-90</td>
+      <td>√</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>收缩压</td>
+      <td><140</td>
+      <td>√</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>体温</td>
+      <td>36-37</td>
+      <td>√</td>
+      <td></td>
+   </tr>
 </table>
