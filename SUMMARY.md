@@ -6,4 +6,5 @@
 * [服务器预算](server.md)
 * [评估模型](evaluation.md)
 * [小程序技术栈](small_program.md)
+* [数据报警规则](warning_rules.md)
 
